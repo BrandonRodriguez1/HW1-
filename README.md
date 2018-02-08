@@ -1,5 +1,5 @@
 # HW1-
-Punto 2 de la tare HW1
+Punto 2 de la tarea HW1
 
 
 
